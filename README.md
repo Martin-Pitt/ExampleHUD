@@ -20,6 +20,8 @@ Two scripts are included:
 - `Movable Resizable HUD.lsl` — the main script
 - `Configure Example HUD.lsl` — sets up a nice example HUD for you
 
+(Ignore the Makefile, it is for Quark's convenience.)
+
 ## `Movable Resizable HUD.lsl`
 
 This script implements mouse-based moving and resizing. It is written more for readability than raw efficiency. It makes a few assumptions you will probably want to adjust for your own HUDs:
