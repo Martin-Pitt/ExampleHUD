@@ -2,7 +2,7 @@
 // this script.
 //
 // Please do not sell this script but feel free to incorporate the logic.  It
-// would be nice if you let Quark Idlemind if you do use this script.
+// would be nice if you let Quark Idlemind know if you do use this script.
 
 // This script is a quick hack to setup a group of prims for use by the 
 // Movable Resizeable HUD script.

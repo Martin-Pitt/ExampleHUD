@@ -5,7 +5,7 @@
 // this script.
 //
 // Please do not sell this script but feel free to incorporate the logic.  It
-// would be nice if you let Quark Idlemind if you do use this script.
+// would be nice if you let Quark Idlemind know if you do use this script.
 
 // Clarity over optimization was the goal for this script.  I encourage you to
 // make enhancements or optimizations public.
