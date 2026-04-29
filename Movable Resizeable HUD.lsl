@@ -118,7 +118,7 @@ integer InitTouch() {
     // This is the magic to determine if the touched the
     // resize area in the lower left corner.  Adjust this
     // as needed.
-	v = llDetectedTouchUV(0);
+    v = llDetectedTouchUV(0);
     if (v.x < ResizeArea.x && v.y < ResizeArea.y) {
         // This is the smallest the HUD can be made without distorting.
         MinScale = llGetMinScaleFactor();
@@ -167,7 +167,7 @@ HandleTouch() {
         // We are enlarging
         scale = 1 + scale;
     }
-	// CurrentScale is initialized by InitTouch to 1.0.
+    // CurrentScale is initialized by InitTouch to 1.0.
     llScaleByFactor(scale / CurrentScale);
     CurrentScale = scale;
 }
